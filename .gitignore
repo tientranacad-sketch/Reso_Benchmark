@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.vscode/
+.DS_Store
+*results*.csv
+*summary*.csv
+*cleaned*.csv
+*report*.csv
+factscore_checkpoint.json
+*.csv
+!dataset.csv
