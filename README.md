@@ -23,8 +23,8 @@ This repository contains the benchmark execution and metric evaluation pipeline 
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/tientranacad-sketch/Reso_Benchmark.git](https://github.com/tientranacad-sketch/Reso_Benchmark.git)
+cd Reso_Benchmark
 
 pip install -r requirements.txt
 ```
